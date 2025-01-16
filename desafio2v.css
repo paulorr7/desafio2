@@ -18,6 +18,7 @@ body{ display: flex;
 }
 .nome{
     font-size: 16px;
+    color: azure;
     
 }
 .git{
